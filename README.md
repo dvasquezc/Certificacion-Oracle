@@ -1,2 +1,2 @@
 # Oracle-Certificacion
-Contenido para la certificacion Oracle
+Contenido para la certificación Oracle
